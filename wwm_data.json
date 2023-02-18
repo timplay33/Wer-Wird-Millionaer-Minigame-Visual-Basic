@@ -1,0 +1,185 @@
+{
+    "1":{
+        "money":50,
+        "question":"Zu vorgerückter Stunde beeilten sich die Wanderer, damit sie es noch vor Einbruch der Dunkelheit bis zum nächsten ...?",
+        "answers":{
+            "A":"Klein stätte",
+            "B": "Siedlunngen",
+            "C": "Ort schafften",
+            "D": "Kuh dörfer"
+        }
+    },
+
+    "2":{
+        "money":100,
+        "question":"Wühlt der Hund mit seinem Gesicht im Schnee, ist er danach sozusagen ...?",
+        "answers":{
+            "A":"erbarmungslos",
+            "B": "abgebrüht",
+            "C": "unnachgiebig",
+            "D": "kaltschnäuzig"
+        }
+    },
+    
+    "3":{
+        "money":200,
+        "question":"Wem während des Einkaufs der Drahtesel gestohlen wird, der steht vor dem Laden erst mal völlig ...?",
+        "answers":{
+            "A":"schutslos",
+            "B": "radlos",
+            "C": "plahnlos",
+            "D": "hillflos"
+        }
+    },
+
+    "4":{
+        "money":300,
+        "question":"Wovon findet man die Version mit „W“ am Anfang beim Einkaufen oft im selben Regal?",
+        "answers":{
+            "A":"Vollmilchschokolade",
+            "B": "Vollkornbrot",
+            "C": "Vollwaschmittel",
+            "D": "Vollwertmüsli"
+        }
+    },
+
+    "5":{
+        "money":500,
+        "question":"Welche Präposition ist auch für Weinkenner nicht weit hergeholt?",
+        "answers":{
+            "A":"mosel",
+            "B": "ahr",
+            "C": "nahe",
+            "D": "rhein"
+        }
+    },
+
+    "6":{
+        "money":1000,
+        "question":"Was stieg mit Jahresbeginn 2023 auf 250 Euro im Monat?",
+        "answers":{
+            "A":"Rundfunkbeitrag",
+            "B": "Hundesteuer",
+            "C": "Kindergeld",
+            "D": "m²-Mietpreis in München"
+        }
+    },
+
+    "7":{
+        "money":2000,
+        "question":"Wer gehört zu den Kolleginnen von Merle Frohms, Giulia Gwinn, Lina Magull, Sara Däbritz und Marina Hegering?",
+        "answers":{
+            "A":"Annalena Baerbock",
+            "B": "Alexandra Popp",
+            "C": "Jil Sander",
+            "D": "Cornelia Poletto"
+        }
+    },
+
+    "8":{
+        "money":4000,
+        "question":"Wer ist ständiger Begleiter von Wednesday aus der Addams Family, der derzeit wohl angesagtesten Serien-Teenagerin?",
+        "answers":{
+            "A":"Laufendes Näschen",
+            "B": "Eiskaltes Händchen",
+            "C": "Zuckendes Äuglein",
+            "D": "Stinkendes Füßchen"
+        }
+    },
+
+    "9":{
+        "money":8000,
+        "question":"Wie nennt der Engländer seine Vermieterin?",
+        "answers":{
+            "A":"landlady",
+            "B": "villagequeen",
+            "C": "citymadam",
+            "D": "townmiss"
+        }
+    },
+
+    "10":{
+        "money":16000,
+        "question":"Abstimmungskrimi in Washington: Wer brauchte 2023 ganz 15 Wahlgänge, um Sprecher des Repräsentantenhauses zu werden??",
+        "answers":{
+            "A":"Nixon",
+            "B": "Eisenhower",
+            "C": "McCarthy",
+            "D": "Hoover"
+        }
+    },
+
+    "11":{
+        "money":32000,
+        "question":"Welche Videospielreihe wird nach fast 30 Jahren ab 2023 nicht mehr von EA SPORTS unter diesem Namen weitergeführt?",
+        "answers":{
+            "A":"Grand Theft Auto",
+            "B": "Die Sims",
+            "C": "FIFA",
+            "D": "Super Mario Kart"
+        }
+    },
+
+    "12":{
+        "money":64000,
+        "question":"Im Medizinerlatein heißt ...?",
+        "answers":{
+            "A":"die Aschelhöhle Axilla",
+            "B": "die Kniekehle Knillia",
+            "C": "die Ohrmuschel Orilla",
+            "D": "der Bauchnabel Nabilla"
+        }
+    },
+
+    "13":{
+        "money":125000,
+        "question":"Auf wie viele heutige Staaten verteilen sich die Standorte der sieben Weltwunder der Antike?",
+        "answers":{
+            "A":"zwei",
+            "B": "drei",
+            "C": "vier",
+            "D": "fünf"
+        }
+    },
+
+    "14":{
+        "money":500000,
+        "question":"Bibi Blocksberg heißt eigentlich ...?",
+        "answers":{
+            "A":"Barbara",
+            "B": "Brigitte",
+            "C": "Bianca",
+            "D": "Beatrix"
+        }
+    },
+
+    "15":{
+        "money":1000000,
+        "question":"Wo fand 2016 zum bislang letzten Mal ein Formel-1-Rennen um den Großen Preis von Europa statt?",
+        "answers":{
+            "A":"Baku",
+            "B": "Valencia",
+            "C": "Nürburgring",
+            "D": "Spa-Francorchamps"
+        }
+    },
+
+    "aswers":{
+        "1":"C",
+        "2":"D",
+        "3":"B",
+        "4":"C",
+        "5":"C",
+        "6":"C",
+        "7":"B",
+        "8":"B",
+        "9":"A",
+        "10":"C",
+        "11":"C",
+        "12":"A",
+        "13":"C",
+        "14":"B",
+        "15":"A"
+    }
+
+}
